@@ -18,6 +18,7 @@ Open http://webapplate.github.io/ghapplate to see the basic looks and feel.
 
 Go to https://github.com/newage1021/ghapplate, click 'fork' button to fork the template to your repository.
 
+Go to http://newage1021.github.io/ghapplate
 ## Features
 
 Learn more from [webapplate document](https://github.com/webapplate/webapplate/wiki).
